@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Socios</title>
+
+        <!-- CSS -->
+        <link rel='stylesheet' type='text/css' href='css/jquery-ui.min.css'>
+        <link rel='stylesheet' type='text/css' href='css/socios.css'>
+    </head>
+    <body>
+        <header>
+            <h1>Socios</h1>
+        </header>
+        <div class='container'>
+            <div id="new-messages" style="display: none;"></div>
+            <div id='tabs'>
+                <ul id='tabs-list'>
+                    <li><a href='#timeline'>Timeline</a></li>
+                    <li><a href='#myMsgs'>Mis mensajes</a></li>
+                </ul>
+                <div id='timeline'></div>
+                <div id='myMsgs'></div>
+            </div>
+        </div>
+
+        <!-- At the end of the html: the page loads faster -->
+        <script src='js/jquery.js' charset='utf-8'></script>
+        <script src='js/jquery-ui.min.js' charset='utf-8'></script>
+        <script src='js/socios.js' charset='utf-8'></script>
+        <footer>
+            Socios © 2016
+        </footer>
+    </body>
+</html>

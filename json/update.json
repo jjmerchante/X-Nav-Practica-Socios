@@ -1,0 +1,19 @@
+{
+    "messages": [
+
+        {
+            "author": "Mr. Bean",
+            "avatar": "http://www.gran-angular.net/wp-content/img_gran_angular_net2/2013/03/cara_015.jpg",
+            "title": "Con sueño",
+            "content": "Me voy a dormir tras este tan buen fin de semana que mañana empiezo otra vez a currar",
+            "date": "17/4/2016 21:35"
+        },
+        {
+            "author": "Charles Chaplin",
+            "avatar": "http://www.allinhindi.com/wp-content/uploads/2015/11/Charles-Chaplin-Quotes-305x470.jpg",
+            "title": "Una semana más",
+            "content": "Tras un fin de semana intenso se empieza ahora una semana nueva",
+            "date": "18/4/2016 11:15"
+        }
+    ]
+}
